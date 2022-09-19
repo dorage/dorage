@@ -1,7 +1,7 @@
 <a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am KangHyun Lee! 
-I am a data analyst at [Elucidata](https://elucidata.io/). 
+
 
 - 🌐 Visit my [porfolio website](https://www.notion.so/dorage/cfa014f546a2486da505dc7cbf3b6c84) for complete background and contact.
 - 👋 My personal [greeting site](https://www.dorage.io/)
