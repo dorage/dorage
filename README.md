@@ -6,7 +6,7 @@
 - 👋 My personal [greeting site](https://www.dorage.io/)
 
 ---
-<p align = "left">
+<p align = "center">
   <img src = "https://rocky-caverns-12042.herokuapp.com/kang_hyun?color=red" width = 400>
 </p>
 <p align = "center">
