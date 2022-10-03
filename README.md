@@ -7,7 +7,7 @@
 
 ---
 <p align = "center">
-  <img src = "https://rocky-caverns-12042.herokuapp.com/kang_hyun">
+  <img src = "https://rocky-caverns-12042.herokuapp.com/Sithis">
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dorage&show_icons=true&theme=bear" width = 400>
