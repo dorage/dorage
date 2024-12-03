@@ -4,8 +4,8 @@
 ![dev-env](./public/preview.png)
 
 💻 [Development environment](https://github.com/dorage/dev-env)
-💭 [Web of thought]()(🛠️)
-💭 [Services]()(🛠️)
+💭 [Web of thought](https://github.com/dorage)(🛠️)
+💭 [Services](https://github.com/dorage)(🛠️)
 
 
 
