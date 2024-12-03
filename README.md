@@ -1,7 +1,10 @@
 
-## Hi 👋 I am KangHyun Lee! 
+## Hi 👋 I am KangHyun Lee AKA @Dorage-San!
 
 ![dev-env](./public/preview.png)
 
-💻 It's my [development environment](https://github.com/dorage/dev-env)
+💻 [Development environment](https://github.com/dorage/dev-env)
+💭 [Web of thought]()(🛠️)
+💭 [Services]()(🛠️)
+
 
