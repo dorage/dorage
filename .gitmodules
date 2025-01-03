@@ -1,0 +1,3 @@
+[submodule "web-of-thought"]
+	path = web-of-thought
+	url = https://github.com/dorage/web-of-thought.git
