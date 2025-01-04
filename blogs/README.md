@@ -1,3 +1,3 @@
-[🔙 🏠 Home](../README.md)
+[🔙 🏠 Home](https://github.com/dorage)
 
 # Blogs
