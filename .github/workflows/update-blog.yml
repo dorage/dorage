@@ -1,0 +1,21 @@
+name: update-blog
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - blogs/**
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/recent-blog.js
+      - run: |
+          git commit -m 'action:update README.md'
+          git push
