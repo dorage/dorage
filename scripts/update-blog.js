@@ -45,7 +45,7 @@ ${blogs
   .slice(0, 10)
   .map((blog) => {
     return `**[${blog.title}](./blogs/${blog.file})**
-: ${blog.date}`;
+: <sub>${blog.date}</sub>`;
   })
   .join("\n\n")}
 <!-- end_recent_blogs -->`,
@@ -71,7 +71,7 @@ ${blogs
 ${blogs
   .map((blog) => {
     return `**[${blog.title}](./blogs/${blog.file})**
-: ${blog.date}`;
+: <sub>${blog.date}</sub>`;
   })
   .join("\n\n")}
 <!-- end_blogs -->`,
