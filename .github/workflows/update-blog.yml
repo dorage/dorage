@@ -6,6 +6,7 @@ on:
     paths:
       - blogs/**
       - scripts/update-blog.js
+      - .github/workflows/update-blog.yml
 
 jobs:
   build-and-deploy:
@@ -18,5 +19,7 @@ jobs:
           node-version: 20
       - run: node scripts/update-blog.js
       - run: |
+          git config user.name 'github-actions'
+          git config user.email 'baloonflower554@gmail.com'
           git commit -m 'action:update README.md'
           git push
