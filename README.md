@@ -4,7 +4,6 @@
 ![dev-env](./public/preview.png)
 
 💻 [Development environment](https://github.com/dorage/dev-env)
-💭 [Services](https://github.com/dorage)(🛠️)
 
 
 ## Recent blogs
