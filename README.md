@@ -3,7 +3,7 @@
 
 ![dev-env](./public/preview.png)
 
-💻 [Development environment](https://github.com/dorage/dev-env)
+[💻 Development environment 👉🏼](https://github.com/dorage/dev-env)
 
 
 ## Recent blogs
