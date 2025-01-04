@@ -55,4 +55,30 @@ ${blogs
   }
 
   // update blog list in blogs/README.md
+  {
+    const readme = fs.readFileSync(
+      path.resolve(path.resolve(process.cwd(), "blogs", "README.md")),
+      {
+        encoding: "utf8",
+      },
+    );
+
+    fs.writeFileSync(
+      path.resolve(process.cwd(), "blogs", "README.md"),
+      readme.replace(
+        /<!-- start_blogs -->(.*)<!-- end_blogs -->/s,
+        `<!-- start_blogs -->
+${blogs
+  .map((blog) => {
+    return `**[${blog.title}](./blogs/${blog.file})**
+: ${blog.date}`;
+  })
+  .join("\n\n")}
+<!-- end_blogs -->`,
+      ),
+      {
+        encoding: "utf8",
+      },
+    );
+  }
 })();

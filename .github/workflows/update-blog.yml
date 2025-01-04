@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - blogs/**
+      - scripts/update-blog.js
 
 jobs:
   build-and-deploy:
@@ -15,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/recent-blog.js
+      - run: node scripts/update-blog.js
       - run: |
           git commit -m 'action:update README.md'
           git push
