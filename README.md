@@ -9,6 +9,9 @@
 ## Recent blogs
 
 <!-- start_recent_blogs -->
+**[키보드를 만들며, 어떻게 테스트할까?](./blogs/어떻게 테스트할까.md)**
+: <sub>2025.04.05</sub>
+
 **[React Transition Group은 어떻게 동작하는가](./blogs/0c7d0c27-0373-4d32-ad47-b57bf593742b.md)**
 : <sub>2023-12-24T15:00:00.000Z</sub>
 
@@ -35,9 +38,6 @@
 
 **[[799] Champagne Tower](./blogs/23938db1-7c0a-495b-b133-98f59735dc0c.md)**
 : <sub>2023-09-23T15:00:00.000Z</sub>
-
-**[[1048] Longest String Chain](./blogs/c839db63-9212-4d99-965f-6e2b88b49f4d.md)**
-: <sub>2023-09-22T15:00:00.000Z</sub>
 <!-- end_recent_blogs -->
 
 [📚 All blogs 👉🏼](/blogs/README.md)

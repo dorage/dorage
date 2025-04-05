@@ -3,6 +3,9 @@
 # Blogs
 
 <!-- start_blogs -->
+**[키보드를 만들며, 어떻게 테스트할까?](./blogs/어떻게 테스트할까.md)**
+: <sub>2025.04.05</sub>
+
 **[React Transition Group은 어떻게 동작하는가](./blogs/0c7d0c27-0373-4d32-ad47-b57bf593742b.md)**
 : <sub>2023-12-24T15:00:00.000Z</sub>
 
