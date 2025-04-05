@@ -3,7 +3,7 @@
 # Blogs
 
 <!-- start_blogs -->
-**[키보드를 만들며, 어떻게 테스트할까?](./blogs/어떻게 테스트할까.md)**
+**[키보드를 만들며, 어떻게 테스트할까?](./blogs/%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%A0%EA%B9%8C.md)**
 : <sub>2025.04.05</sub>
 
 **[React Transition Group은 어떻게 동작하는가](./blogs/0c7d0c27-0373-4d32-ad47-b57bf593742b.md)**
