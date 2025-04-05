@@ -70,7 +70,7 @@ ${blogs
         `<!-- start_blogs -->
 ${blogs
   .map((blog) => {
-    return `**[${blog.title}](./blogs/${blog.file})**
+    return `**[${blog.title}](./blogs/${encodeURI(blog.file)})**
 : <sub>${blog.date}</sub>`;
   })
   .join("\n\n")}
